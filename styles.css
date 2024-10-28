@@ -16,7 +16,7 @@ body {
 .music-player {
     background: #fff;
     padding: 20px;
-    width: 300px;
+    width: 500px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
@@ -28,7 +28,7 @@ h1, h2 {
 
 .playlist ul {
     list-style-type: none;
-    max-height: 180px;
+    max-height: 200px;
     overflow-y: auto;
     margin-bottom: 15px;
 }
